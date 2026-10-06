@@ -13,3 +13,4 @@
 - [sveltejs/kit#17106](https://github.com/sveltejs/kit/pull/17106) — fix: follow HTTP redirects after enhanced form submissions
 - [sveltejs/kit#17107](https://github.com/sveltejs/kit/pull/17107) — fix: preserve the document path in hash-router resolve
 - [tokio-rs/axum#3890](https://github.com/tokio-rs/axum/pull/3890) — docs: fix route_service example for Body API
+- [QwikDev/qwik#9109](https://github.com/QwikDev/qwik/pull/9109) — test(core): cover client-only computed resume captures
