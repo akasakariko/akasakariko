@@ -5,14 +5,14 @@
 
 ## Merged PRs
 
-- [mozilla/D329756](https://phabricator.services.mozilla.com/D329756) — Bug 2044440: Suppress accessibility click checks when cancelling drag start
-- [hyperium/hyper#4222](https://github.com/hyperium/hyper/pull/4222) — fix(http1): drain client dispatch receiver on connection shutdown
-- [QwikDev/qwik#9180](https://github.com/QwikDev/qwik/pull/9180) — fix(core): treat failed handler-chunk imports in core dispatch as importError
-- [sveltejs/kit#17104](https://github.com/sveltejs/kit/pull/17104) — fix: request event streams for live queries
-- [sveltejs/kit#17106](https://github.com/sveltejs/kit/pull/17106) — fix: follow HTTP redirects after enhanced form submissions
-- [misskey-dev/misskey#17941](https://github.com/misskey-dev/misskey/pull/17941) — fix: include query string in HTTP Signature (request-target)
-- [QwikDev/qwik#9010](https://github.com/QwikDev/qwik/pull/9010) — fix(router): serve static files under the configured base path
-- [sveltejs/kit#17107](https://github.com/sveltejs/kit/pull/17107) — fix: preserve the document path in hash-router resolve
-- [feathersjs/feathers#3705](https://github.com/feathersjs/feathers/pull/3705) — fix(schema): recheck external dispatch after resolving
-- [QwikDev/qwik#9109](https://github.com/QwikDev/qwik/pull/9109) — test(core): cover client-only computed resume captures
-- [tokio-rs/axum#3890](https://github.com/tokio-rs/axum/pull/3890) — docs: fix route_service example for Body API
+- [mozilla/D329756](https://phabricator.services.mozilla.com/D329756) ![stars](https://img.shields.io/github/stars/mozilla/gecko-dev?style=flat-square&label=stars&color=yellow) — Bug 2044440: Suppress accessibility click checks when cancelling drag start
+- [hyperium/hyper#4222](https://github.com/hyperium/hyper/pull/4222) ![stars](https://img.shields.io/github/stars/hyperium/hyper?style=flat-square&label=stars&color=yellow) — fix(http1): drain client dispatch receiver on connection shutdown
+- [QwikDev/qwik#9180](https://github.com/QwikDev/qwik/pull/9180) ![stars](https://img.shields.io/github/stars/QwikDev/qwik?style=flat-square&label=stars&color=yellow) — fix(core): treat failed handler-chunk imports in core dispatch as importError
+- [sveltejs/kit#17104](https://github.com/sveltejs/kit/pull/17104) ![stars](https://img.shields.io/github/stars/sveltejs/kit?style=flat-square&label=stars&color=yellow) — fix: request event streams for live queries
+- [sveltejs/kit#17106](https://github.com/sveltejs/kit/pull/17106) ![stars](https://img.shields.io/github/stars/sveltejs/kit?style=flat-square&label=stars&color=yellow) — fix: follow HTTP redirects after enhanced form submissions
+- [misskey-dev/misskey#17941](https://github.com/misskey-dev/misskey/pull/17941) ![stars](https://img.shields.io/github/stars/misskey-dev/misskey?style=flat-square&label=stars&color=yellow) — fix: include query string in HTTP Signature (request-target)
+- [QwikDev/qwik#9010](https://github.com/QwikDev/qwik/pull/9010) ![stars](https://img.shields.io/github/stars/QwikDev/qwik?style=flat-square&label=stars&color=yellow) — fix(router): serve static files under the configured base path
+- [sveltejs/kit#17107](https://github.com/sveltejs/kit/pull/17107) ![stars](https://img.shields.io/github/stars/sveltejs/kit?style=flat-square&label=stars&color=yellow) — fix: preserve the document path in hash-router resolve
+- [feathersjs/feathers#3705](https://github.com/feathersjs/feathers/pull/3705) ![stars](https://img.shields.io/github/stars/feathersjs/feathers?style=flat-square&label=stars&color=yellow) — fix(schema): recheck external dispatch after resolving
+- [QwikDev/qwik#9109](https://github.com/QwikDev/qwik/pull/9109) ![stars](https://img.shields.io/github/stars/QwikDev/qwik?style=flat-square&label=stars&color=yellow) — test(core): cover client-only computed resume captures
+- [tokio-rs/axum#3890](https://github.com/tokio-rs/axum/pull/3890) ![stars](https://img.shields.io/github/stars/tokio-rs/axum?style=flat-square&label=stars&color=yellow) — docs: fix route_service example for Body API
