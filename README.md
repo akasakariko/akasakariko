@@ -6,6 +6,7 @@
 ## Merged PRs
 
 - [mozilla/D329756](https://phabricator.services.mozilla.com/D329756) ![stars](https://img.shields.io/github/stars/mozilla-firefox/firefox?style=flat-square&label=stars&color=yellow) — Bug 2044440: Suppress accessibility click checks when cancelling drag start
+- [react/react#37764](https://github.com/react/react/pull/37764) ![stars](https://img.shields.io/github/stars/react/react?style=flat-square&label=stars&color=yellow) — [compiler] Fix refs false positive for IntersectionObserver callbacks
 - [hyperium/hyper#4222](https://github.com/hyperium/hyper/pull/4222) ![stars](https://img.shields.io/github/stars/hyperium/hyper?style=flat-square&label=stars&color=yellow) — fix(http1): drain client dispatch receiver on connection shutdown
 - [QwikDev/qwik#9180](https://github.com/QwikDev/qwik/pull/9180) ![stars](https://img.shields.io/github/stars/QwikDev/qwik?style=flat-square&label=stars&color=yellow) — fix(core): treat failed handler-chunk imports in core dispatch as importError
 - [sveltejs/kit#17104](https://github.com/sveltejs/kit/pull/17104) ![stars](https://img.shields.io/github/stars/sveltejs/kit?style=flat-square&label=stars&color=yellow) — fix: request event streams for live queries
