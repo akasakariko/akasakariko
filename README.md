@@ -7,6 +7,7 @@
 
 - [react/react#37764](https://github.com/react/react/pull/37764) ![stars](https://img.shields.io/github/stars/react/react?style=flat-square&label=stars&color=yellow) — [compiler] Fix refs false positive for IntersectionObserver callbacks
 - [hyperium/hyper#4222](https://github.com/hyperium/hyper/pull/4222) ![stars](https://img.shields.io/github/stars/hyperium/hyper?style=flat-square&label=stars&color=yellow) — fix(http1): drain client dispatch receiver on connection shutdown
+- [vim/vim#21444](https://github.com/vim/vim/pull/21444) ![stars](https://img.shields.io/github/stars/vim/vim?style=flat-square&label=stars&color=yellow) — Message pager drops blank separators when scrolling back
 - [mozilla/D329756](https://phabricator.services.mozilla.com/D329756) ![stars](https://img.shields.io/github/stars/mozilla-firefox/firefox?style=flat-square&label=stars&color=yellow) — Bug 2044440: Suppress accessibility click checks when cancelling drag start
 - [QwikDev/qwik#9180](https://github.com/QwikDev/qwik/pull/9180) ![stars](https://img.shields.io/github/stars/QwikDev/qwik?style=flat-square&label=stars&color=yellow) — fix(core): treat failed handler-chunk imports in core dispatch as importError
 - [QwikDev/qwik#9010](https://github.com/QwikDev/qwik/pull/9010) ![stars](https://img.shields.io/github/stars/QwikDev/qwik?style=flat-square&label=stars&color=yellow) — fix(router): serve static files under the configured base path
