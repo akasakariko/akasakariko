@@ -5,6 +5,7 @@
 
 ## Merged PRs
 
+- [kubernetes/kubernetes#142583](https://github.com/kubernetes/kubernetes/pull/142583) ![stars](https://img.shields.io/github/stars/kubernetes/kubernetes?style=flat-square&label=stars&color=yellow) — Use public field paths in kube-proxy configuration validation
 - [react/react#37764](https://github.com/react/react/pull/37764) ![stars](https://img.shields.io/github/stars/react/react?style=flat-square&label=stars&color=yellow) — [compiler] Fix refs false positive for IntersectionObserver callbacks
 - [hyperium/hyper#4222](https://github.com/hyperium/hyper/pull/4222) ![stars](https://img.shields.io/github/stars/hyperium/hyper?style=flat-square&label=stars&color=yellow) — fix(http1): drain client dispatch receiver on connection shutdown
 - [nushell/nushell#19163](https://github.com/nushell/nushell/pull/19163) ![stars](https://img.shields.io/github/stars/nushell/nushell?style=flat-square&label=stars&color=yellow) — Preserve REPL background jobs on Ctrl-C and clean up jobs on non-REPL exit
