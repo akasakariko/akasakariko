@@ -1,7 +1,7 @@
 # akasakariko
 
-赤坂理子。千葉県在住の学部生。小さなバグ修正やドキュメント修正をしています。
-英語は苦手やねん PR の文章は AI にブラッシュアップしてもろてます プロジェクトのポリシーで言われたら、日本語で PR 出しますわ
+Undergrad based in Chiba, Japan. I fix small bugs in open source.
+My English is limited, so my PR text is polished with AI. If a project's policy asks, I will write it in Japanese instead.
 
 ## Merged PRs
 
