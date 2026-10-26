@@ -13,6 +13,16 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 
 - [libuv/libuv#5370](https://github.com/libuv/libuv/pull/5370) ![stars](https://img.shields.io/github/stars/libuv/libuv?style=flat-square&label=stars&color=yellow) — darwin: add LaunchServices process title opt-out
 
+- [vim/vim#21444](https://github.com/vim/vim/pull/21444) ![stars](https://img.shields.io/github/stars/vim/vim?style=flat-square&label=stars&color=yellow) — Message pager drops blank separators when scrolling back
+
+- [feathersjs/feathers#3705](https://github.com/feathersjs/feathers/pull/3705) ![stars](https://img.shields.io/github/stars/feathersjs/feathers?style=flat-square&label=stars&color=yellow) — fix(schema): recheck external dispatch after resolving
+
+- [misskey-dev/misskey#17941](https://github.com/misskey-dev/misskey/pull/17941) ![stars](https://img.shields.io/github/stars/misskey-dev/misskey?style=flat-square&label=stars&color=yellow) — fix: include query string in HTTP Signature (request-target)
+
+- [googleapis/google-cloud-rust#7279](https://github.com/googleapis/google-cloud-rust/pull/7279) ![stars](https://img.shields.io/github/stars/googleapis/google-cloud-rust?style=flat-square&label=stars&color=yellow) — fix(auth): accept IAP issuer when verifying id tokens
+
+- [tokio-rs/axum#3890](https://github.com/tokio-rs/axum/pull/3890) ![stars](https://img.shields.io/github/stars/tokio-rs/axum?style=flat-square&label=stars&color=yellow) — docs: fix route_service example for Body API
+
 <details>
 <summary>nushell/nushell — 2 PRs <img alt="stars" src="https://img.shields.io/github/stars/nushell/nushell?style=flat-square&label=stars&color=yellow"></summary>
 
@@ -20,8 +30,6 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 - [nushell/nushell#19337](https://github.com/nushell/nushell/pull/19337) ![stars](https://img.shields.io/github/stars/nushell/nushell?style=flat-square&label=stars&color=yellow) — Reset stale REPL interrupts before running a new command
 
 </details>
-
-- [vim/vim#21444](https://github.com/vim/vim/pull/21444) ![stars](https://img.shields.io/github/stars/vim/vim?style=flat-square&label=stars&color=yellow) — Message pager drops blank separators when scrolling back
 
 <details>
 <summary>mozilla — 3 patches <img alt="stars" src="https://img.shields.io/github/stars/mozilla-firefox/firefox?style=flat-square&label=stars&color=yellow"></summary>
@@ -53,11 +61,3 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 - [sveltejs/kit#17104](https://github.com/sveltejs/kit/pull/17104) ![stars](https://img.shields.io/github/stars/sveltejs/kit?style=flat-square&label=stars&color=yellow) — fix: request event streams for live queries
 
 </details>
-
-- [feathersjs/feathers#3705](https://github.com/feathersjs/feathers/pull/3705) ![stars](https://img.shields.io/github/stars/feathersjs/feathers?style=flat-square&label=stars&color=yellow) — fix(schema): recheck external dispatch after resolving
-
-- [misskey-dev/misskey#17941](https://github.com/misskey-dev/misskey/pull/17941) ![stars](https://img.shields.io/github/stars/misskey-dev/misskey?style=flat-square&label=stars&color=yellow) — fix: include query string in HTTP Signature (request-target)
-
-- [googleapis/google-cloud-rust#7279](https://github.com/googleapis/google-cloud-rust/pull/7279) ![stars](https://img.shields.io/github/stars/googleapis/google-cloud-rust?style=flat-square&label=stars&color=yellow) — fix(auth): accept IAP issuer when verifying id tokens
-
-- [tokio-rs/axum#3890](https://github.com/tokio-rs/axum/pull/3890) ![stars](https://img.shields.io/github/stars/tokio-rs/axum?style=flat-square&label=stars&color=yellow) — docs: fix route_service example for Body API
