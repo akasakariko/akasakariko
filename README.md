@@ -17,6 +17,8 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 
 - [vim/vim#21444](https://github.com/vim/vim/pull/21444) ![stars](https://img.shields.io/github/stars/vim/vim?style=flat-square&label=stars&color=yellow) — Message pager drops blank separators when scrolling back
 
+- [hashicorp/packer#13733](https://github.com/hashicorp/packer/pull/13733) ![stars](https://img.shields.io/github/stars/hashicorp/packer?style=flat-square&label=stars&color=yellow) — Fix filename completion for commands with path arguments
+
 - [feathersjs/feathers#3705](https://github.com/feathersjs/feathers/pull/3705) ![stars](https://img.shields.io/github/stars/feathersjs/feathers?style=flat-square&label=stars&color=yellow) — fix(schema): recheck external dispatch after resolving
 
 - [misskey-dev/misskey#17941](https://github.com/misskey-dev/misskey/pull/17941) ![stars](https://img.shields.io/github/stars/misskey-dev/misskey?style=flat-square&label=stars&color=yellow) — fix: include query string in HTTP Signature (request-target)
