@@ -11,6 +11,8 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 
 - [moby/moby#54011](https://github.com/moby/moby/pull/54011) ![stars](https://img.shields.io/github/stars/moby/moby?style=flat-square&label=stars&color=yellow) — bridge: batch firewall updates for published ports
 
+- [influxdata/influxdb#27717](https://github.com/influxdata/influxdb/pull/27717) ![stars](https://img.shields.io/github/stars/influxdata/influxdb?style=flat-square&label=stars&color=yellow) — fix(tsdb): Write measurement deletions to fields.idxl
+
 - [hyperium/hyper#4222](https://github.com/hyperium/hyper/pull/4222) ![stars](https://img.shields.io/github/stars/hyperium/hyper?style=flat-square&label=stars&color=yellow) — fix(http1): drain client dispatch receiver on connection shutdown
 
 - [libuv/libuv#5370](https://github.com/libuv/libuv/pull/5370) ![stars](https://img.shields.io/github/stars/libuv/libuv?style=flat-square&label=stars&color=yellow) — darwin: add LaunchServices process title opt-out
