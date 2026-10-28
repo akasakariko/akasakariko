@@ -9,8 +9,6 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 
 - [react/react#37764](https://github.com/react/react/pull/37764) ![stars](https://img.shields.io/github/stars/react/react?style=flat-square&label=stars&color=yellow) — [compiler] Fix refs false positive for IntersectionObserver callbacks
 
-- [moby/moby#54011](https://github.com/moby/moby/pull/54011) ![stars](https://img.shields.io/github/stars/moby/moby?style=flat-square&label=stars&color=yellow) — bridge: batch firewall updates for published ports
-
 - [influxdata/influxdb#27717](https://github.com/influxdata/influxdb/pull/27717) ![stars](https://img.shields.io/github/stars/influxdata/influxdb?style=flat-square&label=stars&color=yellow) — fix(tsdb): Write measurement deletions to fields.idxl
 
 - [hyperium/hyper#4222](https://github.com/hyperium/hyper/pull/4222) ![stars](https://img.shields.io/github/stars/hyperium/hyper?style=flat-square&label=stars&color=yellow) — fix(http1): drain client dispatch receiver on connection shutdown
@@ -30,6 +28,14 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 - [googleapis/google-cloud-rust#7279](https://github.com/googleapis/google-cloud-rust/pull/7279) ![stars](https://img.shields.io/github/stars/googleapis/google-cloud-rust?style=flat-square&label=stars&color=yellow) — fix(auth): accept IAP issuer when verifying id tokens
 
 - [tokio-rs/axum#3890](https://github.com/tokio-rs/axum/pull/3890) ![stars](https://img.shields.io/github/stars/tokio-rs/axum?style=flat-square&label=stars&color=yellow) — docs: fix route_service example for Body API
+
+<details>
+<summary>moby/moby — 2 PRs <img alt="stars" src="https://img.shields.io/github/stars/moby/moby?style=flat-square&label=stars&color=yellow"></summary>
+
+- [moby/moby#54011](https://github.com/moby/moby/pull/54011) ![stars](https://img.shields.io/github/stars/moby/moby?style=flat-square&label=stars&color=yellow) — bridge: batch firewall updates for published ports
+- [moby/moby#54045](https://github.com/moby/moby/pull/54045) ![stars](https://img.shields.io/github/stars/moby/moby?style=flat-square&label=stars&color=yellow) — libnetwork: isolate TestDNSOptions from host DNS options
+
+</details>
 
 <details>
 <summary>nushell/nushell — 2 PRs <img alt="stars" src="https://img.shields.io/github/stars/nushell/nushell?style=flat-square&label=stars&color=yellow"></summary>
