@@ -9,6 +9,7 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 
 - [react/react#37764](https://github.com/react/react/pull/37764) ![stars](https://img.shields.io/github/stars/react/react?style=flat-square&label=stars&color=yellow) — [compiler] Fix refs false positive for IntersectionObserver callbacks
 
+- [curl/curl#23653](https://github.com/curl/curl/pull/23653) ![stars](https://img.shields.io/github/stars/curl/curl?style=flat-square&label=stars&color=yellow) — content_encoding: reject incomplete brotli streams
 - [pnpm/pnpm#17446](https://github.com/pnpm/pnpm/pull/17446) ![stars](https://img.shields.io/github/stars/pnpm/pnpm?style=flat-square&label=stars&color=yellow) — fix(update): refresh the subtrees of packages selected with --latest
 
 - [influxdata/influxdb#27717](https://github.com/influxdata/influxdb/pull/27717) ![stars](https://img.shields.io/github/stars/influxdata/influxdb?style=flat-square&label=stars&color=yellow) — fix(tsdb): Write measurement deletions to fields.idxl
