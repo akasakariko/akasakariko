@@ -14,6 +14,7 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 
 - [influxdata/influxdb#27717](https://github.com/influxdata/influxdb/pull/27717) ![stars](https://img.shields.io/github/stars/influxdata/influxdb?style=flat-square&label=stars&color=yellow) — fix(tsdb): Write measurement deletions to fields.idxl
 
+- [pulumi/pulumi#25384](https://github.com/pulumi/pulumi/pull/25384) ![stars](https://img.shields.io/github/stars/pulumi/pulumi?style=flat-square&label=stars&color=yellow) — Preserve pending-delete parents of protected resources
 - [hyperium/hyper#4222](https://github.com/hyperium/hyper/pull/4222) ![stars](https://img.shields.io/github/stars/hyperium/hyper?style=flat-square&label=stars&color=yellow) — fix(http1): drain client dispatch receiver on connection shutdown
 
 - [libuv/libuv#5370](https://github.com/libuv/libuv/pull/5370) ![stars](https://img.shields.io/github/stars/libuv/libuv?style=flat-square&label=stars&color=yellow) — darwin: add LaunchServices process title opt-out
