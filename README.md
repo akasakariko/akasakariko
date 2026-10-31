@@ -31,6 +31,7 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 
 - [googleapis/google-cloud-rust#7279](https://github.com/googleapis/google-cloud-rust/pull/7279) ![stars](https://img.shields.io/github/stars/googleapis/google-cloud-rust?style=flat-square&label=stars&color=yellow) — fix(auth): accept IAP issuer when verifying id tokens
 
+- [getkin/kin-openapi#1409](https://github.com/getkin/kin-openapi/pull/1409) ![stars](https://img.shields.io/github/stars/getkin/kin-openapi?style=flat-square&label=stars&color=yellow) — openapi3: keep component content when internalizing a ref to a file
 - [tokio-rs/axum#3890](https://github.com/tokio-rs/axum/pull/3890) ![stars](https://img.shields.io/github/stars/tokio-rs/axum?style=flat-square&label=stars&color=yellow) — docs: fix route_service example for Body API
 
 <details>
@@ -50,11 +51,12 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 </details>
 
 <details>
-<summary>mozilla — 3 patches <img alt="stars" src="https://img.shields.io/github/stars/mozilla-firefox/firefox?style=flat-square&label=stars&color=yellow"></summary>
+<summary>mozilla — 4 patches <img alt="stars" src="https://img.shields.io/github/stars/mozilla-firefox/firefox?style=flat-square&label=stars&color=yellow"></summary>
 
 - [mozilla/D329756](https://phabricator.services.mozilla.com/D329756) ![stars](https://img.shields.io/github/stars/mozilla-firefox/firefox?style=flat-square&label=stars&color=yellow) — Bug 2044440: Suppress accessibility click checks when cancelling drag start
 - [mozilla/D330328](https://phabricator.services.mozilla.com/D330328) ![stars](https://img.shields.io/github/stars/mozilla-firefox/firefox?style=flat-square&label=stars&color=yellow) — Bug 2076851: Allow zoom shortcuts in mini windows
 - [mozilla/D333477](https://phabricator.services.mozilla.com/D333477) ![stars](https://img.shields.io/github/stars/mozilla-firefox/firefox?style=flat-square&label=stars&color=yellow) — Bug 2071053: Don't reference subsessions in Glean metrics files
+- [mozilla/D333957](https://phabricator.services.mozilla.com/D333957) ![stars](https://img.shields.io/github/stars/mozilla-firefox/firefox?style=flat-square&label=stars&color=yellow) — Bug 1965481: Normalize Glean RuntimeObject serialization by omitting null and empty array members
 
 </details>
 
