@@ -21,6 +21,8 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 
 - [vim/vim#21444](https://github.com/vim/vim/pull/21444) ![stars](https://img.shields.io/github/stars/vim/vim?style=flat-square&label=stars&color=yellow) — Message pager drops blank separators when scrolling back
 
+- [symfony/symfony#67783](https://github.com/symfony/symfony/pull/67783) ![stars](https://img.shields.io/github/stars/symfony/symfony?style=flat-square&label=stars&color=yellow) — [HttpClient] Record the Content-Length of the redacted response body
+
 - [hashicorp/packer#13733](https://github.com/hashicorp/packer/pull/13733) ![stars](https://img.shields.io/github/stars/hashicorp/packer?style=flat-square&label=stars&color=yellow) — Fix filename completion for commands with path arguments
 
 - [swiftlang/swift-syntax#3491](https://github.com/swiftlang/swift-syntax/pull/3491) ![stars](https://img.shields.io/github/stars/swiftlang/swift-syntax?style=flat-square&label=stars&color=yellow) — Fix Identifier hashing to match equality
