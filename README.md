@@ -53,13 +53,14 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 </details>
 
 <details>
-<summary>mozilla — 5 patches <img alt="stars" src="https://img.shields.io/github/stars/mozilla-firefox/firefox?style=flat-square&label=stars&color=yellow"></summary>
+<summary>mozilla — 6 patches <img alt="stars" src="https://img.shields.io/github/stars/mozilla-firefox/firefox?style=flat-square&label=stars&color=yellow"></summary>
 
 - [mozilla/D329756](https://phabricator.services.mozilla.com/D329756) ![stars](https://img.shields.io/github/stars/mozilla-firefox/firefox?style=flat-square&label=stars&color=yellow) — Bug 2044440: Suppress accessibility click checks when cancelling drag start
 - [mozilla/D330328](https://phabricator.services.mozilla.com/D330328) ![stars](https://img.shields.io/github/stars/mozilla-firefox/firefox?style=flat-square&label=stars&color=yellow) — Bug 2076851: Allow zoom shortcuts in mini windows
 - [mozilla/D333477](https://phabricator.services.mozilla.com/D333477) ![stars](https://img.shields.io/github/stars/mozilla-firefox/firefox?style=flat-square&label=stars&color=yellow) — Bug 2071053: Don't reference subsessions in Glean metrics files
 - [mozilla/D333957](https://phabricator.services.mozilla.com/D333957) ![stars](https://img.shields.io/github/stars/mozilla-firefox/firefox?style=flat-square&label=stars&color=yellow) — Bug 1965481: Normalize Glean RuntimeObject serialization by omitting null and empty array members
 - [mozilla/glean#3729](https://github.com/mozilla/glean/pull/3729) ![stars](https://img.shields.io/github/stars/mozilla/glean?style=flat-square&label=stars&color=yellow) — Bug 2079526: Allow attribution values up to 512 bytes
+- [mozilla/sccache#2889](https://github.com/mozilla/sccache/pull/2889) ![stars](https://img.shields.io/github/stars/mozilla/sccache?style=flat-square&label=stars&color=yellow) — gcs: default external_account credential format to text in memory
 
 </details>
 
