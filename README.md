@@ -5,6 +5,8 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 
 ## Merged PRs
 
+- [llvm/llvm-project#233414](https://github.com/llvm/llvm-project/pull/233414) ![stars](https://img.shields.io/github/stars/llvm/llvm-project?style=flat-square&label=stars&color=yellow) — [clang-format] Prevent line comment continuation across formatting-disabled boundary
+
 - [kubernetes/kubernetes#142583](https://github.com/kubernetes/kubernetes/pull/142583) ![stars](https://img.shields.io/github/stars/kubernetes/kubernetes?style=flat-square&label=stars&color=yellow) — Use public field paths in kube-proxy configuration validation
 
 - [react/react#37764](https://github.com/react/react/pull/37764) ![stars](https://img.shields.io/github/stars/react/react?style=flat-square&label=stars&color=yellow) — [compiler] Fix refs false positive for IntersectionObserver callbacks
