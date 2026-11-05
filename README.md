@@ -28,6 +28,8 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 
 - [hashicorp/packer#13733](https://github.com/hashicorp/packer/pull/13733) ![stars](https://img.shields.io/github/stars/hashicorp/packer?style=flat-square&label=stars&color=yellow) — Fix filename completion for commands with path arguments
 
+- [apache/druid#20837](https://github.com/apache/druid/pull/20837) ![stars](https://img.shields.io/github/stars/apache/druid?style=flat-square&label=stars&color=yellow) — fix: Avoid duplicate aggregators when reusing T-Digest sketches
+
 - [swiftlang/swift-syntax#3491](https://github.com/swiftlang/swift-syntax/pull/3491) ![stars](https://img.shields.io/github/stars/swiftlang/swift-syntax?style=flat-square&label=stars&color=yellow) — Fix Identifier hashing to match equality
 
 - [feathersjs/feathers#3705](https://github.com/feathersjs/feathers/pull/3705) ![stars](https://img.shields.io/github/stars/feathersjs/feathers?style=flat-square&label=stars&color=yellow) — fix(schema): recheck external dispatch after resolving
