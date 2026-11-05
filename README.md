@@ -13,6 +13,8 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 
 - [google/gvisor#16180](https://github.com/google/gvisor/pull/16180) ![stars](https://img.shields.io/github/stars/google/gvisor?style=flat-square&label=stars&color=yellow) — tcp: release the port of a wildcard-bound endpoint when it is closed
 
+- [jgm/pandoc#12055](https://github.com/jgm/pandoc/pull/12055) ![stars](https://img.shields.io/github/stars/jgm/pandoc?style=flat-square&label=stars&color=yellow) — LaTeX reader: fix duplicated text after a control space at line end
+
 - [curl/curl#23653](https://github.com/curl/curl/pull/23653) ![stars](https://img.shields.io/github/stars/curl/curl?style=flat-square&label=stars&color=yellow) — content_encoding: reject incomplete brotli streams
 - [pnpm/pnpm#17446](https://github.com/pnpm/pnpm/pull/17446) ![stars](https://img.shields.io/github/stars/pnpm/pnpm?style=flat-square&label=stars&color=yellow) — fix(update): refresh the subtrees of packages selected with --latest
 
