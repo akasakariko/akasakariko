@@ -7,6 +7,8 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 
 - [llvm/llvm-project#233414](https://github.com/llvm/llvm-project/pull/233414) ![stars](https://img.shields.io/github/stars/llvm/llvm-project?style=flat-square&label=stars&color=yellow) — [clang-format] Prevent line comment continuation across formatting-disabled boundary
 
+- [kubernetes/kubernetes#143108](https://github.com/kubernetes/kubernetes/pull/143108) ![stars](https://img.shields.io/github/stars/kubernetes/kubernetes?style=flat-square&label=stars&color=yellow) — mount-utils: decode kernel octal escapes in mount paths
+
 - [kubernetes/kubernetes#142583](https://github.com/kubernetes/kubernetes/pull/142583) ![stars](https://img.shields.io/github/stars/kubernetes/kubernetes?style=flat-square&label=stars&color=yellow) — Use public field paths in kube-proxy configuration validation
 
 - [react/react#37764](https://github.com/react/react/pull/37764) ![stars](https://img.shields.io/github/stars/react/react?style=flat-square&label=stars&color=yellow) — [compiler] Fix refs false positive for IntersectionObserver callbacks
@@ -14,6 +16,8 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 - [google/gvisor#16180](https://github.com/google/gvisor/pull/16180) ![stars](https://img.shields.io/github/stars/google/gvisor?style=flat-square&label=stars&color=yellow) — tcp: release the port of a wildcard-bound endpoint when it is closed
 
 - [jgm/pandoc#12055](https://github.com/jgm/pandoc/pull/12055) ![stars](https://img.shields.io/github/stars/jgm/pandoc?style=flat-square&label=stars&color=yellow) — LaTeX reader: fix duplicated text after a control space at line end
+
+- [cypress-io/cypress#35262](https://github.com/cypress-io/cypress/pull/35262) ![stars](https://img.shields.io/github/stars/cypress-io/cypress?style=flat-square&label=stars&color=yellow) — fix: avoid browser blocked ports for the runner server
 
 - [curl/curl#23653](https://github.com/curl/curl/pull/23653) ![stars](https://img.shields.io/github/stars/curl/curl?style=flat-square&label=stars&color=yellow) — content_encoding: reject incomplete brotli streams
 - [pnpm/pnpm#17446](https://github.com/pnpm/pnpm/pull/17446) ![stars](https://img.shields.io/github/stars/pnpm/pnpm?style=flat-square&label=stars&color=yellow) — fix(update): refresh the subtrees of packages selected with --latest
@@ -43,7 +47,10 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 - [googleapis/google-cloud-rust#7279](https://github.com/googleapis/google-cloud-rust/pull/7279) ![stars](https://img.shields.io/github/stars/googleapis/google-cloud-rust?style=flat-square&label=stars&color=yellow) — fix(auth): accept IAP issuer when verifying id tokens
 
 - [getkin/kin-openapi#1409](https://github.com/getkin/kin-openapi/pull/1409) ![stars](https://img.shields.io/github/stars/getkin/kin-openapi?style=flat-square&label=stars&color=yellow) — openapi3: keep component content when internalizing a ref to a file
-- [tokio-rs/axum#3890](https://github.com/tokio-rs/axum/pull/3890) ![stars](https://img.shields.io/github/stars/tokio-rs/axum?style=flat-square&label=stars&color=yellow) — docs: fix route_service example for Body API
+- [tokio-rs/axum#3890](https://github.com/tokio-rs/axum/pull/3890)
+ ![stars](https://img.shields.io/github/stars/tokio-rs/axum?style=flat-square&label=stars&color=yellow) — docs: fix route_service example for Body API
+
+- [keycloak/keycloak#54535](https://github.com/keycloak/keycloak/pull/54535) ![stars](https://img.shields.io/github/stars/keycloak/keycloak?style=flat-square&label=stars&color=yellow) — Reject empty SCIM group members on PUT
 
 <details>
 <summary>moby/moby — 2 PRs <img alt="stars" src="https://img.shields.io/github/stars/moby/moby?style=flat-square&label=stars&color=yellow"></summary>
