@@ -84,6 +84,8 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 
 - [mozilla/D333957](https://phabricator.services.mozilla.com/D333957) ![stars](https://img.shields.io/github/stars/mozilla-firefox/firefox?style=flat-square&label=stars&color=yellow) — Bug 1965481: Normalize Glean RuntimeObject serialization by omitting null and empty array members
 
+- [misskey-dev/misskey#18086](https://github.com/misskey-dev/misskey/pull/18086) ![stars](https://img.shields.io/github/stars/misskey-dev/misskey?style=flat-square&label=stars&color=yellow) — fix(backend): withReplies: false のローカルタイムラインのストリーミングに返信が含まれる問題を修正
+
 - [misskey-dev/misskey#17941](https://github.com/misskey-dev/misskey/pull/17941) ![stars](https://img.shields.io/github/stars/misskey-dev/misskey?style=flat-square&label=stars&color=yellow) — fix: include query string in HTTP Signature (request-target)
 
 - [mozilla/sccache#2889](https://github.com/mozilla/sccache/pull/2889) ![stars](https://img.shields.io/github/stars/mozilla/sccache?style=flat-square&label=stars&color=yellow) — gcs: default external_account credential format to text in memory
