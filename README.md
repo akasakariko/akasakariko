@@ -4,7 +4,6 @@ Undergrad based in Chiba, Japan. I fix small bugs in open source.
 My English is limited, so my PR text is polished with AI. If a project's policy asks, I will write it in Japanese instead.
 
 ## Merged PRs
-
 - [react/react#37764](https://github.com/react/react/pull/37764) ![stars](https://img.shields.io/github/stars/react/react?style=flat-square&label=stars&color=yellow) — [compiler] Fix refs false positive for IntersectionObserver callbacks
 
 - [kubernetes/kubernetes#143108](https://github.com/kubernetes/kubernetes/pull/143108) ![stars](https://img.shields.io/github/stars/kubernetes/kubernetes?style=flat-square&label=stars&color=yellow) — mount-utils: decode kernel octal escapes in mount paths
@@ -28,6 +27,8 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 - [nushell/nushell#19163](https://github.com/nushell/nushell/pull/19163) ![stars](https://img.shields.io/github/stars/nushell/nushell?style=flat-square&label=stars&color=yellow) — Preserve REPL background jobs on Ctrl-C and clean up jobs on non-REPL exit
 
 - [nushell/nushell#19337](https://github.com/nushell/nushell/pull/19337) ![stars](https://img.shields.io/github/stars/nushell/nushell?style=flat-square&label=stars&color=yellow) — Reset stale REPL interrupts before running a new command
+
+- [TriliumNext/Trilium#12486](https://github.com/TriliumNext/Trilium/pull/12486) ![stars](https://img.shields.io/github/stars/TriliumNext/Trilium?style=flat-square&label=stars&color=yellow) — fix(note-menu): rebuild on view mode changes (closes #12319)
 
 - [keycloak/keycloak#54535](https://github.com/keycloak/keycloak/pull/54535) ![stars](https://img.shields.io/github/stars/keycloak/keycloak?style=flat-square&label=stars&color=yellow) — Reject empty SCIM group members on PUT
 
@@ -74,8 +75,6 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 
 - [feathersjs/feathers#3705](https://github.com/feathersjs/feathers/pull/3705) ![stars](https://img.shields.io/github/stars/feathersjs/feathers?style=flat-square&label=stars&color=yellow) — fix(schema): recheck external dispatch after resolving
 
-- [apache/druid#20837](https://github.com/apache/druid/pull/20837) ![stars](https://img.shields.io/github/stars/apache/druid?style=flat-square&label=stars&color=yellow) — fix: Avoid duplicate aggregators when reusing T-Digest sketches
-
 - [mozilla/D329756](https://phabricator.services.mozilla.com/D329756) ![stars](https://img.shields.io/github/stars/mozilla-firefox/firefox?style=flat-square&label=stars&color=yellow) — Bug 2044440: Suppress accessibility click checks when cancelling drag start
 
 - [mozilla/D330328](https://phabricator.services.mozilla.com/D330328) ![stars](https://img.shields.io/github/stars/mozilla-firefox/firefox?style=flat-square&label=stars&color=yellow) — Bug 2076851: Allow zoom shortcuts in mini windows
@@ -83,6 +82,8 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 - [mozilla/D333477](https://phabricator.services.mozilla.com/D333477) ![stars](https://img.shields.io/github/stars/mozilla-firefox/firefox?style=flat-square&label=stars&color=yellow) — Bug 2071053: Don't reference subsessions in Glean metrics files
 
 - [mozilla/D333957](https://phabricator.services.mozilla.com/D333957) ![stars](https://img.shields.io/github/stars/mozilla-firefox/firefox?style=flat-square&label=stars&color=yellow) — Bug 1965481: Normalize Glean RuntimeObject serialization by omitting null and empty array members
+
+- [apache/druid#20837](https://github.com/apache/druid/pull/20837) ![stars](https://img.shields.io/github/stars/apache/druid?style=flat-square&label=stars&color=yellow) — fix: Avoid duplicate aggregators when reusing T-Digest sketches
 
 - [misskey-dev/misskey#18086](https://github.com/misskey-dev/misskey/pull/18086) ![stars](https://img.shields.io/github/stars/misskey-dev/misskey?style=flat-square&label=stars&color=yellow) — fix(backend): withReplies: false のローカルタイムラインのストリーミングに返信が含まれる問題を修正
 
