@@ -54,6 +54,8 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 
 - [microsoft/onnxruntime#33321](https://github.com/microsoft/onnxruntime/pull/33321) ![stars](https://img.shields.io/github/stars/microsoft/onnxruntime?style=flat-square&label=stars&color=yellow) — Simplify 1DS shutdown ordering around the Env singleton
 
+- [influxdata/telegraf#20071](https://github.com/influxdata/telegraf/pull/20071) ![stars](https://img.shields.io/github/stars/influxdata/telegraf?style=flat-square&label=stars&color=yellow) — fix(outputs.stackdriver): Do not mutate metrics in sendBatch
+
 - [influxdata/influxdb#27717](https://github.com/influxdata/influxdb/pull/27717) ![stars](https://img.shields.io/github/stars/influxdata/influxdb?style=flat-square&label=stars&color=yellow) — fix(tsdb): Write measurement deletions to fields.idxl
 
 - [pnpm/pnpm#17446](https://github.com/pnpm/pnpm/pull/17446) ![stars](https://img.shields.io/github/stars/pnpm/pnpm?style=flat-square&label=stars&color=yellow) — fix(update): refresh the subtrees of packages selected with --latest
