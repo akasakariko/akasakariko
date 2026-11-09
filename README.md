@@ -43,6 +43,8 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 
 - [libuv/libuv#5370](https://github.com/libuv/libuv/pull/5370) ![stars](https://img.shields.io/github/stars/libuv/libuv?style=flat-square&label=stars&color=yellow) — darwin: add LaunchServices process title opt-out
 
+- [nim-lang/Nim#26666](https://github.com/nim-lang/Nim/pull/26666) ![stars](https://img.shields.io/github/stars/nim-lang/Nim?style=flat-square&label=stars&color=yellow) — fixes #26658; net: do not compress a single zero group in IPv6 `$`
+
 - [pulumi/pulumi#25384](https://github.com/pulumi/pulumi/pull/25384) ![stars](https://img.shields.io/github/stars/pulumi/pulumi?style=flat-square&label=stars&color=yellow) — Preserve pending-delete parents of protected resources
 
 - [microsoft/onnxruntime#33321](https://github.com/microsoft/onnxruntime/pull/33321) ![stars](https://img.shields.io/github/stars/microsoft/onnxruntime?style=flat-square&label=stars&color=yellow) — Simplify 1DS shutdown ordering around the Env singleton
@@ -86,6 +88,8 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 - [apache/druid#20837](https://github.com/apache/druid/pull/20837) ![stars](https://img.shields.io/github/stars/apache/druid?style=flat-square&label=stars&color=yellow) — fix: Avoid duplicate aggregators when reusing T-Digest sketches
 
 - [misskey-dev/misskey#18086](https://github.com/misskey-dev/misskey/pull/18086) ![stars](https://img.shields.io/github/stars/misskey-dev/misskey?style=flat-square&label=stars&color=yellow) — fix(backend): withReplies: false のローカルタイムラインのストリーミングに返信が含まれる問題を修正
+
+- [cython/cython#8114](https://github.com/cython/cython/pull/8114) ![stars](https://img.shields.io/github/stars/cython/cython?style=flat-square&label=stars&color=yellow) — Fix type inference for iteration over literal sequences with mixed item types
 
 - [misskey-dev/misskey#17941](https://github.com/misskey-dev/misskey/pull/17941) ![stars](https://img.shields.io/github/stars/misskey-dev/misskey?style=flat-square&label=stars&color=yellow) — fix: include query string in HTTP Signature (request-target)
 
