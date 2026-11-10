@@ -12,6 +12,8 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 
 - [llvm/llvm-project#233414](https://github.com/llvm/llvm-project/pull/233414) ![stars](https://img.shields.io/github/stars/llvm/llvm-project?style=flat-square&label=stars&color=yellow) — [clang-format] Prevent line comment continuation across formatting-disabled boundary
 
+- [llvm/llvm-project#238619](https://github.com/llvm/llvm-project/pull/238619) ![stars](https://img.shields.io/github/stars/llvm/llvm-project?style=flat-square&label=stars&color=yellow) — [clang-format] Avoid spurious blank lines after configured macros
+
 - [curl/curl#23653](https://github.com/curl/curl/pull/23653) ![stars](https://img.shields.io/github/stars/curl/curl?style=flat-square&label=stars&color=yellow) — content_encoding: reject incomplete brotli streams
 
 - [mozilla/D333477](https://phabricator.services.mozilla.com/D333477) ![stars](https://img.shields.io/github/stars/mozilla-firefox/firefox?style=flat-square&label=stars&color=yellow) — Bug 2071053: Don't reference subsessions in Glean metrics files
