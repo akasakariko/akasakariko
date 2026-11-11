@@ -38,6 +38,8 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 
 - [hyperium/hyper#4222](https://github.com/hyperium/hyper/pull/4222) ![stars](https://img.shields.io/github/stars/hyperium/hyper?style=flat-square&label=stars&color=yellow) — fix(http1): drain client dispatch receiver on connection shutdown
 
+- [rclone/rclone#10230](https://github.com/rclone/rclone/pull/10230) ![stars](https://img.shields.io/github/stars/rclone/rclone?style=flat-square&label=stars&color=yellow) — compress: fix default level hanging zstd and disabling gzip compression
+
 - [cypress-io/cypress#35262](https://github.com/cypress-io/cypress/pull/35262) ![stars](https://img.shields.io/github/stars/cypress-io/cypress?style=flat-square&label=stars&color=yellow) — fix: avoid browser blocked ports for the runner server
 
 - [jgm/pandoc#12055](https://github.com/jgm/pandoc/pull/12055) ![stars](https://img.shields.io/github/stars/jgm/pandoc?style=flat-square&label=stars&color=yellow) — LaTeX reader: fix duplicated text after a control space at line end
