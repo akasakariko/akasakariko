@@ -32,6 +32,8 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 
 - [google/gvisor#16180](https://github.com/google/gvisor/pull/16180) ![stars](https://img.shields.io/github/stars/google/gvisor?style=flat-square&label=stars&color=yellow) — tcp: release the port of a wildcard-bound endpoint when it is closed
 
+- [valkey-io/valkey#4913](https://github.com/valkey-io/valkey/pull/4913) ![stars](https://img.shields.io/github/stars/valkey-io/valkey?style=flat-square&label=stars&color=yellow) — Expire stale Sentinel primary-down reports before quorum checks
+
 - [vim/vim#21444](https://github.com/vim/vim/pull/21444) ![stars](https://img.shields.io/github/stars/vim/vim?style=flat-square&label=stars&color=yellow) — Message pager drops blank separators when scrolling back
 
 - [libuv/libuv#5370](https://github.com/libuv/libuv/pull/5370) ![stars](https://img.shields.io/github/stars/libuv/libuv?style=flat-square&label=stars&color=yellow) — darwin: add LaunchServices process title opt-out
@@ -46,6 +48,8 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 
 - [keycloak/keycloak#54535](https://github.com/keycloak/keycloak/pull/54535) ![stars](https://img.shields.io/github/stars/keycloak/keycloak?style=flat-square&label=stars&color=yellow) — Reject empty SCIM group members on PUT
 
+- [keycloak/keycloak#54837](https://github.com/keycloak/keycloak/pull/54837) ![stars](https://img.shields.io/github/stars/keycloak/keycloak?style=flat-square&label=stars&color=yellow) — Apply Trust Email when the IdP e-mail differs only in case
+
 - [symfony/symfony#67783](https://github.com/symfony/symfony/pull/67783) ![stars](https://img.shields.io/github/stars/symfony/symfony?style=flat-square&label=stars&color=yellow) — [HttpClient] Record the Content-Length of the redacted response body
 
 - [nim-lang/Nim#26672](https://github.com/nim-lang/Nim/pull/26672) ![stars](https://img.shields.io/github/stars/nim-lang/Nim?style=flat-square&label=stars&color=yellow) — fixes #26656; JS backend: use Math.imul for 32-bit unsigned multiplication
@@ -57,6 +61,8 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 - [nim-lang/Nim#26666](https://github.com/nim-lang/Nim/pull/26666) ![stars](https://img.shields.io/github/stars/nim-lang/Nim?style=flat-square&label=stars&color=yellow) — fixes #26658; net: do not compress a single zero group in IPv6 `$`
 
 - [apache/druid#20837](https://github.com/apache/druid/pull/20837) ![stars](https://img.shields.io/github/stars/apache/druid?style=flat-square&label=stars&color=yellow) — fix: Avoid duplicate aggregators when reusing T-Digest sketches
+
+- [apache/druid#20867](https://github.com/apache/druid/pull/20867) ![stars](https://img.shields.io/github/stars/apache/druid?style=flat-square&label=stars&color=yellow) — fix: complete cancelled tasks after failed worker assignment
 
 - [microsoft/onnxruntime#33321](https://github.com/microsoft/onnxruntime/pull/33321) ![stars](https://img.shields.io/github/stars/microsoft/onnxruntime?style=flat-square&label=stars&color=yellow) — Simplify 1DS shutdown ordering around the Env singleton
 
