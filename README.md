@@ -34,6 +34,8 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 
 - [google/gvisor#16180](https://github.com/google/gvisor/pull/16180) ![stars](https://img.shields.io/github/stars/google/gvisor?style=flat-square&label=stars&color=yellow) — tcp: release the port of a wildcard-bound endpoint when it is closed
 
+- [cloudflare/quiche#2804](https://github.com/cloudflare/quiche/pull/2804) ![stars](https://img.shields.io/github/stars/cloudflare/quiche?style=flat-square&label=stars&color=yellow) — stream: keep a pending FIN schedulable after data is acknowledged
+
 - [valkey-io/valkey#4913](https://github.com/valkey-io/valkey/pull/4913) ![stars](https://img.shields.io/github/stars/valkey-io/valkey?style=flat-square&label=stars&color=yellow) — Expire stale Sentinel primary-down reports before quorum checks
 
 - [vim/vim#21444](https://github.com/vim/vim/pull/21444) ![stars](https://img.shields.io/github/stars/vim/vim?style=flat-square&label=stars&color=yellow) — Message pager drops blank separators when scrolling back
