@@ -13,10 +13,10 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 - [llvm/llvm-project#233414](https://github.com/llvm/llvm-project/pull/233414) ![stars](https://img.shields.io/github/stars/llvm/llvm-project?style=flat-square&label=stars&color=yellow) — [clang-format] Prevent line comment continuation across formatting-disabled boundary
 
 - [llvm/llvm-project#238619](https://github.com/llvm/llvm-project/pull/238619) ![stars](https://img.shields.io/github/stars/llvm/llvm-project?style=flat-square&label=stars&color=yellow) — [clang-format] Avoid spurious blank lines after configured macros
-
+- [JuliaLang/julia#64814](https://github.com/JuliaLang/julia/pull/64814) ![stars](https://img.shields.io/github/stars/JuliaLang/julia?style=flat-square&label=stars&color=yellow) — lowering: Avoid repeated property access in updating assignments
 - [dotnet/runtime#136963](https://github.com/dotnet/runtime/pull/136963) ![stars](https://img.shields.io/github/stars/dotnet/runtime?style=flat-square&label=stars&color=yellow) — Fix Zip64 data descriptors on non-seekable streams
 
-- [JuliaLang/julia#64814](https://github.com/JuliaLang/julia/pull/64814) ![stars](https://img.shields.io/github/stars/JuliaLang/julia?style=flat-square&label=stars&color=yellow) — lowering: Avoid repeated property access in updating assignments
+
 
 - [curl/curl#23653](https://github.com/curl/curl/pull/23653) ![stars](https://img.shields.io/github/stars/curl/curl?style=flat-square&label=stars&color=yellow) — content_encoding: reject incomplete brotli streams
 
@@ -34,25 +34,23 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 
 - [google/gvisor#16180](https://github.com/google/gvisor/pull/16180) ![stars](https://img.shields.io/github/stars/google/gvisor?style=flat-square&label=stars&color=yellow) — tcp: release the port of a wildcard-bound endpoint when it is closed
 
-- [cloudflare/quiche#2804](https://github.com/cloudflare/quiche/pull/2804) ![stars](https://img.shields.io/github/stars/cloudflare/quiche?style=flat-square&label=stars&color=yellow) — stream: keep a pending FIN schedulable after data is acknowledged
-
-- [valkey-io/valkey#4913](https://github.com/valkey-io/valkey/pull/4913) ![stars](https://img.shields.io/github/stars/valkey-io/valkey?style=flat-square&label=stars&color=yellow) — Expire stale Sentinel primary-down reports before quorum checks
-
 - [vim/vim#21444](https://github.com/vim/vim/pull/21444) ![stars](https://img.shields.io/github/stars/vim/vim?style=flat-square&label=stars&color=yellow) — Message pager drops blank separators when scrolling back
 
 - [libuv/libuv#5370](https://github.com/libuv/libuv/pull/5370) ![stars](https://img.shields.io/github/stars/libuv/libuv?style=flat-square&label=stars&color=yellow) — darwin: add LaunchServices process title opt-out
 
 - [hyperium/hyper#4222](https://github.com/hyperium/hyper/pull/4222) ![stars](https://img.shields.io/github/stars/hyperium/hyper?style=flat-square&label=stars&color=yellow) — fix(http1): drain client dispatch receiver on connection shutdown
-
+- [cloudflare/quiche#2804](https://github.com/cloudflare/quiche/pull/2804) ![stars](https://img.shields.io/github/stars/cloudflare/quiche?style=flat-square&label=stars&color=yellow) — stream: keep a pending FIN schedulable after data is acknowledged
 - [rclone/rclone#10230](https://github.com/rclone/rclone/pull/10230) ![stars](https://img.shields.io/github/stars/rclone/rclone?style=flat-square&label=stars&color=yellow) — compress: fix default level hanging zstd and disabling gzip compression
+
+
 
 - [cypress-io/cypress#35262](https://github.com/cypress-io/cypress/pull/35262) ![stars](https://img.shields.io/github/stars/cypress-io/cypress?style=flat-square&label=stars&color=yellow) — fix: avoid browser blocked ports for the runner server
 
 - [jgm/pandoc#12055](https://github.com/jgm/pandoc/pull/12055) ![stars](https://img.shields.io/github/stars/jgm/pandoc?style=flat-square&label=stars&color=yellow) — LaTeX reader: fix duplicated text after a control space at line end
 
 - [keycloak/keycloak#54535](https://github.com/keycloak/keycloak/pull/54535) ![stars](https://img.shields.io/github/stars/keycloak/keycloak?style=flat-square&label=stars&color=yellow) — Reject empty SCIM group members on PUT
-
 - [keycloak/keycloak#54837](https://github.com/keycloak/keycloak/pull/54837) ![stars](https://img.shields.io/github/stars/keycloak/keycloak?style=flat-square&label=stars&color=yellow) — Apply Trust Email when the IdP e-mail differs only in case
+
 
 - [symfony/symfony#67783](https://github.com/symfony/symfony/pull/67783) ![stars](https://img.shields.io/github/stars/symfony/symfony?style=flat-square&label=stars&color=yellow) — [HttpClient] Record the Content-Length of the redacted response body
 
@@ -65,8 +63,10 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 - [nim-lang/Nim#26666](https://github.com/nim-lang/Nim/pull/26666) ![stars](https://img.shields.io/github/stars/nim-lang/Nim?style=flat-square&label=stars&color=yellow) — fixes #26658; net: do not compress a single zero group in IPv6 `$`
 
 - [apache/druid#20837](https://github.com/apache/druid/pull/20837) ![stars](https://img.shields.io/github/stars/apache/druid?style=flat-square&label=stars&color=yellow) — fix: Avoid duplicate aggregators when reusing T-Digest sketches
-
 - [apache/druid#20867](https://github.com/apache/druid/pull/20867) ![stars](https://img.shields.io/github/stars/apache/druid?style=flat-square&label=stars&color=yellow) — fix: complete cancelled tasks after failed worker assignment
+- [valkey-io/valkey#4913](https://github.com/valkey-io/valkey/pull/4913) ![stars](https://img.shields.io/github/stars/valkey-io/valkey?style=flat-square&label=stars&color=yellow) — Expire stale Sentinel primary-down reports before quorum checks
+
+
 
 - [microsoft/onnxruntime#33321](https://github.com/microsoft/onnxruntime/pull/33321) ![stars](https://img.shields.io/github/stars/microsoft/onnxruntime?style=flat-square&label=stars&color=yellow) — Simplify 1DS shutdown ordering around the Env singleton
 
@@ -81,6 +81,8 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 - [nushell/nushell#19163](https://github.com/nushell/nushell/pull/19163) ![stars](https://img.shields.io/github/stars/nushell/nushell?style=flat-square&label=stars&color=yellow) — Preserve REPL background jobs on Ctrl-C and clean up jobs on non-REPL exit
 
 - [nushell/nushell#19337](https://github.com/nushell/nushell/pull/19337) ![stars](https://img.shields.io/github/stars/nushell/nushell?style=flat-square&label=stars&color=yellow) — Reset stale REPL interrupts before running a new command
+- [nushell/nushell#19347](https://github.com/nushell/nushell/pull/19347) ![stars](https://img.shields.io/github/stars/nushell/nushell?style=flat-square&label=stars&color=yellow) — Fix fuzzy argument completion for resolved commands
+
 
 - [sveltejs/kit#17106](https://github.com/sveltejs/kit/pull/17106) ![stars](https://img.shields.io/github/stars/sveltejs/kit?style=flat-square&label=stars&color=yellow) — fix: follow HTTP redirects after enhanced form submissions
 
