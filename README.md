@@ -40,6 +40,10 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 
 - [hyperium/hyper#4222](https://github.com/hyperium/hyper/pull/4222) ![stars](https://img.shields.io/github/stars/hyperium/hyper?style=flat-square&label=stars&color=yellow) — fix(http1): drain client dispatch receiver on connection shutdown
 
+- [hyperium/hyper#4247](https://github.com/hyperium/hyper/pull/4247) ![stars](https://img.shields.io/github/stars/hyperium/hyper?style=flat-square&label=stars&color=yellow) — fix(http1): grant dispatch readiness once per request
+
+- [hyperium/hyper#4248](https://github.com/hyperium/hyper/pull/4248) ![stars](https://img.shields.io/github/stars/hyperium/hyper?style=flat-square&label=stars&color=yellow) — fix(http1): avoid adding close to switching protocols responses
+
 - [cloudflare/quiche#2804](https://github.com/cloudflare/quiche/pull/2804) ![stars](https://img.shields.io/github/stars/cloudflare/quiche?style=flat-square&label=stars&color=yellow) — stream: keep a pending FIN schedulable after data is acknowledged
 
 - [rclone/rclone#10230](https://github.com/rclone/rclone/pull/10230) ![stars](https://img.shields.io/github/stars/rclone/rclone?style=flat-square&label=stars&color=yellow) — compress: fix default level hanging zstd and disabling gzip compression
