@@ -58,6 +58,8 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 
 - [cython/cython#8114](https://github.com/cython/cython/pull/8114) ![stars](https://img.shields.io/github/stars/cython/cython?style=flat-square&label=stars&color=yellow) — Fix type inference for iteration over literal sequences with mixed item types
 
+- [cython/cython#8118](https://github.com/cython/cython/pull/8118) ![stars](https://img.shields.io/github/stars/cython/cython?style=flat-square&label=stars&color=yellow) — Keep single-character bytes literals as bytes objects when iterating
+
 - [swiftlang/swift-syntax#3491](https://github.com/swiftlang/swift-syntax/pull/3491) ![stars](https://img.shields.io/github/stars/swiftlang/swift-syntax?style=flat-square&label=stars&color=yellow) — Fix Identifier hashing to match equality
 
 - [nim-lang/Nim#26666](https://github.com/nim-lang/Nim/pull/26666) ![stars](https://img.shields.io/github/stars/nim-lang/Nim?style=flat-square&label=stars&color=yellow) — fixes #26658; net: do not compress a single zero group in IPv6 `$`
