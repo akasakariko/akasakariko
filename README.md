@@ -18,6 +18,8 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 
 - [dotnet/runtime#136963](https://github.com/dotnet/runtime/pull/136963) ![stars](https://img.shields.io/github/stars/dotnet/runtime?style=flat-square&label=stars&color=yellow) — Fix Zip64 data descriptors on non-seekable streams
 
+- [dotnet/roslyn#86486](https://github.com/dotnet/roslyn/pull/86486) ![stars](https://img.shields.io/github/stars/dotnet/roslyn?style=flat-square&label=stars&color=yellow) — Report CS4007 for restricted types used across await with runtime async
+
 - [curl/curl#23653](https://github.com/curl/curl/pull/23653) ![stars](https://img.shields.io/github/stars/curl/curl?style=flat-square&label=stars&color=yellow) — content_encoding: reject incomplete brotli streams
 
 - [mozilla/D333477](https://phabricator.services.mozilla.com/D333477) ![stars](https://img.shields.io/github/stars/mozilla-firefox/firefox?style=flat-square&label=stars&color=yellow) — Bug 2071053: Don't reference subsessions in Glean metrics files
@@ -60,6 +62,8 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 
 - [symfony/symfony#67783](https://github.com/symfony/symfony/pull/67783) ![stars](https://img.shields.io/github/stars/symfony/symfony?style=flat-square&label=stars&color=yellow) — [HttpClient] Record the Content-Length of the redacted response body
 
+- [woocommerce/woocommerce#70687](https://github.com/woocommerce/woocommerce/pull/70687) ![stars](https://img.shields.io/github/stars/woocommerce/woocommerce?style=flat-square&label=stars&color=yellow) — Fix checkout fields whose pattern only PHP can compile
+
 - [nim-lang/Nim#26672](https://github.com/nim-lang/Nim/pull/26672) ![stars](https://img.shields.io/github/stars/nim-lang/Nim?style=flat-square&label=stars&color=yellow) — fixes #26656; JS backend: use Math.imul for 32-bit unsigned multiplication
 
 - [cython/cython#8114](https://github.com/cython/cython/pull/8114) ![stars](https://img.shields.io/github/stars/cython/cython?style=flat-square&label=stars&color=yellow) — Fix type inference for iteration over literal sequences with mixed item types
@@ -73,6 +77,8 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 - [apache/druid#20837](https://github.com/apache/druid/pull/20837) ![stars](https://img.shields.io/github/stars/apache/druid?style=flat-square&label=stars&color=yellow) — fix: Avoid duplicate aggregators when reusing T-Digest sketches
 
 - [apache/druid#20867](https://github.com/apache/druid/pull/20867) ![stars](https://img.shields.io/github/stars/apache/druid?style=flat-square&label=stars&color=yellow) — fix: complete cancelled tasks after failed worker assignment
+
+- [dolthub/go-mysql-server#4135](https://github.com/dolthub/go-mysql-server/pull/4135) ![stars](https://img.shields.io/github/stars/dolthub/go-mysql-server?style=flat-square&label=stars&color=yellow) — Fix MIN and MAX nullability in CREATE TABLE AS SELECT
 
 - [valkey-io/valkey#4913](https://github.com/valkey-io/valkey/pull/4913) ![stars](https://img.shields.io/github/stars/valkey-io/valkey?style=flat-square&label=stars&color=yellow) — Expire stale Sentinel primary-down reports before quorum checks
 
