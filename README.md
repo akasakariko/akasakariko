@@ -124,6 +124,8 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 
 - [misskey-dev/misskey#17941](https://github.com/misskey-dev/misskey/pull/17941) ![stars](https://img.shields.io/github/stars/misskey-dev/misskey?style=flat-square&label=stars&color=yellow) — fix: include query string in HTTP Signature (request-target)
 
+- [misskey-dev/misskey#18151](https://github.com/misskey-dev/misskey/pull/18151) ![stars](https://img.shields.io/github/stars/misskey-dev/misskey?style=flat-square&label=stars&color=yellow) — fix(frontend,backend): handle deletion of the default upload folder
+
 - [hashicorp/packer#13733](https://github.com/hashicorp/packer/pull/13733) ![stars](https://img.shields.io/github/stars/hashicorp/packer?style=flat-square&label=stars&color=yellow) — Fix filename completion for commands with path arguments
 
 - [mozilla/sccache#2889](https://github.com/mozilla/sccache/pull/2889) ![stars](https://img.shields.io/github/stars/mozilla/sccache?style=flat-square&label=stars&color=yellow) — gcs: default external_account credential format to text in memory
