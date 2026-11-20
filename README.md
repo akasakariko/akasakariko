@@ -90,6 +90,8 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 
 - [pnpm/pnpm#17446](https://github.com/pnpm/pnpm/pull/17446) ![stars](https://img.shields.io/github/stars/pnpm/pnpm?style=flat-square&label=stars&color=yellow) — fix(update): refresh the subtrees of packages selected with --latest
 
+- [prisma/orm#30556](https://github.com/prisma/orm/pull/30556) ![stars](https://img.shields.io/github/stars/prisma/orm?style=flat-square&label=stars&color=yellow) — fix(debug): avoid retaining query objects when logging is disabled
+
 - [pulumi/pulumi#25384](https://github.com/pulumi/pulumi/pull/25384) ![stars](https://img.shields.io/github/stars/pulumi/pulumi?style=flat-square&label=stars&color=yellow) — Preserve pending-delete parents of protected resources
 
 - [nushell/nushell#19163](https://github.com/nushell/nushell/pull/19163) ![stars](https://img.shields.io/github/stars/nushell/nushell?style=flat-square&label=stars&color=yellow) — Preserve REPL background jobs on Ctrl-C and clean up jobs on non-REPL exit
