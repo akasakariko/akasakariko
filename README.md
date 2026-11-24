@@ -146,5 +146,6 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 
 - [feathersjs/feathers#3705](https://github.com/feathersjs/feathers/pull/3705) ![stars](https://img.shields.io/github/stars/feathersjs/feathers?style=flat-square&label=stars&color=yellow) — fix(schema): recheck external dispatch after resolving
 
-- [tokio-rs/axum#3890](https://github.com/tokio-rs/axum/pull/3890)
- ![stars](https://img.shields.io/github/stars/tokio-rs/axum?style=flat-square&label=stars&color=yellow) — docs: fix route_service example for Body API
+- [tokio-rs/axum#3890](https://github.com/tokio-rs/axum/pull/3890) ![stars](https://img.shields.io/github/stars/tokio-rs/axum?style=flat-square&label=stars&color=yellow) — docs: fix route_service example for Body API
+
+- [klauspost/compress#1292](https://github.com/klauspost/compress/pull/1292) ![stars](https://img.shields.io/github/stars/klauspost/compress?style=flat-square&label=stars&color=yellow) — zstd: avoid shard copies when resetting small dictionary blocks
