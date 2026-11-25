@@ -149,6 +149,7 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 - [tokio-rs/axum#3890](https://github.com/tokio-rs/axum/pull/3890) ![stars](https://img.shields.io/github/stars/tokio-rs/axum?style=flat-square&label=stars&color=yellow) — docs: fix route_service example for Body API
 
 - [klauspost/compress#1292](https://github.com/klauspost/compress/pull/1292) ![stars](https://img.shields.io/github/stars/klauspost/compress?style=flat-square&label=stars&color=yellow) — zstd: avoid shard copies when resetting small dictionary blocks
+- 
 - [googleapis/google-cloud-rust#7328](https://github.com/googleapis/google-cloud-rust/pull/7328) ![stars](https://img.shields.io/github/stars/googleapis/google-cloud-rust?style=flat-square&label=stars&color=yellow) — fix(wkt): accept ProtoJSON Base64 variants
 
 - [psycopg/psycopg#1470](https://github.com/psycopg/psycopg/pull/1470) ![stars](https://img.shields.io/github/stars/psycopg/psycopg?style=flat-square&label=stars&color=yellow) — fix: allow dumping nested empty lists as arrays in binary format
