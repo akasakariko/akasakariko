@@ -153,3 +153,6 @@ My English is limited, so my PR text is polished with AI. If a project's policy 
 - [googleapis/google-cloud-rust#7328](https://github.com/googleapis/google-cloud-rust/pull/7328) ![stars](https://img.shields.io/github/stars/googleapis/google-cloud-rust?style=flat-square&label=stars&color=yellow) — fix(wkt): accept ProtoJSON Base64 variants
 
 - [psycopg/psycopg#1470](https://github.com/psycopg/psycopg/pull/1470) ![stars](https://img.shields.io/github/stars/psycopg/psycopg?style=flat-square&label=stars&color=yellow) — fix: allow dumping nested empty lists as arrays in binary format
+
+
+- [keycloak/keycloak#55147](https://github.com/keycloak/keycloak/pull/55147) ![stars](https://img.shields.io/github/stars/keycloak/keycloak?style=flat-square&label=stars&color=yellow) — Record admin events for organization identity provider links
